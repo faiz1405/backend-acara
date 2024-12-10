@@ -30,6 +30,16 @@ const doc = {
         identifier: "Faiz",
         password: "123",
       },
+      RegisterRequest: {
+        fullName: "Jhon doe",
+        email: "jony@gmail.com",
+        username: "anjoni123y",
+        password: "123441",
+        confirmPassword: "123441",
+      },
+      ActivationRequest: {
+        code: "1234",
+      },
     },
   },
 };
